@@ -1,6 +1,7 @@
 # Python-Correlation-Analysis-Project
 🎥 Movie Industry Data Analysis
 This project explores key factors influencing the success of movies, using correlation analysis to understand relationships between various movie attributes like budget, revenue, ratings, and more.
+
 🔍 Key Insights from Correlation Analysis
 
 1. 💰 Budget vs. Revenue:
